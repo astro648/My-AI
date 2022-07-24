@@ -3,7 +3,7 @@
  - To import NumPy, run `import numpy as np` With this, you don't need to reference numpy as numpy, it is shortened to np.
  - Make a list: `myList = [1,2,3]`  List is named `myList` and has values `1,2,3`
  - To check the type of something, do `type(myList)` This checks the type of the list `myList`. As we have stated in the previous step, `myList` is a list.
- - To convert `myList` into a NumPy rray named `myArray`, run `myArray = np.array(myList)` . We can check this by simply running `myArray`, which should now show us `array([1,2,3])`. If we check the type of our array by running `type(myArray)`, it should show `numpy.ndarray` which means that the list has been converted to a numPy array.
+ - To convert `myList` into a NumPy array named `myArray`, run `myArray = np.array(myList)` . We can check this by simply running `myArray`, which should now show us `array([1,2,3])`. If we check the type of our array by running `type(myArray)`, it should show `numpy.ndarray` which means that the list has been converted to a numPy array.
  - `np.arange(0,10)` outputs `array([0, 1, 2, 3, 4, 5, 6, 7, 8, 9])`. It creates an array of values starting at 0 and goes for 10. That is why it stops at 9.
  - `np.arange(0,101,2)` outputs `array([  0,   2,   4,   6,   8,  10,  12,  14,  16,  18,  20,  22,  24,
         26,  28,  30,  32,  34,  36,  38,  40,  42,  44,  46,  48,  50,
