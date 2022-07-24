@@ -1,2 +1,7 @@
 # My AI
- I am learning the basics of AI with this project. I use Anaconda. Will update README.md and introduce more .md files to explain certain parts of the project.
+I am learning the basics of AI and a couple of other things with this project.
+
+## Using:
+#### > Anaconda - base
+#### > Jupyter - base
+#### > Numpy - N-dimensional arrays
