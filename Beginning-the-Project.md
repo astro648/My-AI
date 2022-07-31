@@ -11,4 +11,4 @@
  10. Run `pip install jupyter` to install jupyter or verify installation.
  11. Run `pip install numpy` to install numpy or verify installation.
  12. To open Jupyter Notebook, just run `jupyter notebook`
- 13. Voila! Done!
+ 13. Voila! You are done, and have a new environment set up for use!
