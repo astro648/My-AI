@@ -9,3 +9,4 @@
  - Notice how the first line of your notebook has `In [ ]`? It means what you are typing is an input.
  - To run what you type, do Shift+Enter (press both at the same time) or click the Run button up at the top.
  - For the other basic features of Jupyter, here's a good website to look at! (not owned or sponsored, just a good resource) https://towardsdatascience.com/a-beginners-tutorial-to-jupyter-notebooks-1b2f8705888a
+#### Protip: use TAB while typing to show a list of possible autocomplete
