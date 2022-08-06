@@ -1,5 +1,5 @@
 # My AI
-I am learning the basics of AI, data sciences, arrays and matrices, scientific computing, and a lot more topics with this project. My goal is to be able to have a good handle on the very basics of AI, and be able to keep learning after this project is complete.
+I am learning the basics of AI, data science, arrays and matrices, scientific computing, and a lot more topics with this project. My goal is to be able to have a good handle on the very basics of AI, and be able to keep learning after this project is complete.
 
 ## Using:
 - Anaconda - From Wikipedia: "`Anaconda is a distribution of the Python and R programming languages for scientific computing, that aims to simplify package management and deployment.`" Install instructions are listed in `How-to-Install-Anaconda.md` in the main directory.
