@@ -22,3 +22,4 @@
        [1., 1., 1., 1., 1.],
        [1., 1., 1., 1., 1.],
        [1., 1., 1., 1., 1.]])`
+ - Let's say we want to make a NumPy variable, called `Var1` with an array from 0-10.  Run `Var1 = np.arange(0,11)` 
