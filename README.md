@@ -7,5 +7,7 @@ I will be regularly updating the documentation and code until I am done with thi
 - Jupyter - used to edit .ipynb / Jupyter Notebook files
 - NumPy - From Wikipedia: "`NumPy is a library for the Python programming language, adding support for large, multi-dimensional arrays and matrices, along with a large collection of high-level mathematical functions to operate on these arrays.`"
 - Matplotlib - From Wikipedia: "`Matplotlib is a plotting library for the Python programming language and its numerical mathematics extension NumPy.`"
+- Pandas - "`pandas is a fast, powerful, flexible and easy to use open source data analysis and manipulation tool,
+built on top of the Python programming language.`"
 
 There are instructions on how to set up Anaconda and start a new project in `Beginning-the-Project.md`, also in the main directory.
