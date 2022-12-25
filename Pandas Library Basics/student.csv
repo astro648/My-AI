@@ -1,36 +1,3 @@
-id,name,class,mark,gender
-1,Jane,Four,75,female
-2,John,Three,85,male
-3,Arnold,Three,55,male
-4,Sophia,Four,60,female
-5,Amelia,Four,60,female
-6,Chris,Four,55,male
-7,Michael,Fifth,78,male
-8,Liam,Five,85,male
-9,Oliver,Six,78,male
-10,Mia,Four,55,female
-11,Belle,Six,89,female
-12,Becky,Six,94,female
-13,Chloe,Seven,88,female
-14,Claire,Seven,88,female
-15,James,Four,88,male
-16,Benjamin,Four,88,male
-17,Lucas,Six,54,male
-18,Aaron,Five,75,male
-19,Jack,Nine,18,male
-20,Jill,Nine,65,female
-21,Lucy,Four,69,female
-22,Ivy,Seven,55,female
-23,Jason,Eight,79,male
-24,Isaiah,Seven,78,male
-25,Andrew,Seven,88,male
-26,Joshua,Seven,79,male
-27,Sarah,Three,81,female
-28,Hannah,Seven,86,female
-29,Caleb,Seven,55,male
-30,Jane Doe,Six,79,female
-31,Ryan,Four,88,male
-32,Mila,Seven,90,female
-33,Ellie,Six,96,female
-34,John Doe,Seven,69,male
-35,Grace,Six,88,female
+version https://git-lfs.github.com/spec/v1
+oid sha256:377c2063188e7e32e8fa236c1dc02fd8b1245c3dd43f7316a220e61f263ec93a
+size 873
