@@ -9,5 +9,6 @@ I will be regularly updating the documentation and code until I am done with thi
 - Matplotlib - From Wikipedia: "`Matplotlib is a plotting library for the Python programming language and its numerical mathematics extension NumPy.`"
 - Pandas - "`pandas is a fast, powerful, flexible and easy to use open source data analysis and manipulation tool,
 built on top of the Python programming language.`"
+- Seaborn - From [Seaborn's website](https://seaborn.pydata.org/): "`Seaborn is a Python data visualization library based on matplotlib.`"
 
 There are instructions on how to set up Anaconda and start a new project in `Beginning-the-Project.md`, also in the main directory.
